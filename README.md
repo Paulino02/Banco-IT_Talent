@@ -7,4 +7,7 @@
         SHOW TABLES;
 
         SELECT * FROM ALUNOS;
+
+# banco funcionando corretamente
+![alt text](image.png)
         
